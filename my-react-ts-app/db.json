@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "c53248ac-ccdb-446d-9152-26398abf133d",
+      "title": "감자",
+      "completed": true
+    },
+    {
+      "id": "1884938b-2dbd-442e-82bf-870fbc63ca2e",
+      "title": "먹고싶다",
+      "completed": false
+    }
+  ]
+}
